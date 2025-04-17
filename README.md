@@ -1,8 +1,8 @@
-# Project 7 - *Name of App Here*
+# Project 7 - *Addy tracker*
 
-Submitted by: **Your Name Here**
+Submitted by: **Adriel Dube**
 
-**Addy's tracker** is a personal planning app in which the use can add, edit, and delete tasks from their calendar
+**Addy tracker** is a personal planning app in which the use can add, edit, and delete tasks from their calendar
 
 Time spent: **1** hour spent in total
 
